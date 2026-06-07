@@ -56,6 +56,7 @@ EOF
 ```
 chmod +x /media/developer/apps/usr/palm/applications/tld.my.customhome/apply.sh
 ```
+If you don't want it to disappear after restarting, run the following command:
 ```
 ln -sf /media/developer/apps/usr/palm/applications/tld.my.customhome/apply.sh /var/lib/webosbrew/init.d/49-custom-homescreen
 ```
