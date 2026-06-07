@@ -18,7 +18,7 @@ How to replace the background image, remove unwanted UI elements, and change sys
 
 ## Background
 
-On webOS 22, the Home app has been completely rewritten using QML. The layout and user interface are defined entirely within QML files
+On webOS 22, the Home app has been completely written using QML. The layout and user interface are defined entirely within QML files
 
 ```
 /usr/palm/applications/com.webos.app.home/qml/UserInterfaceLayer/Containers/MainView.qml
