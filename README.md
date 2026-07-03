@@ -105,4 +105,4 @@ umount /usr/palm/applications/com.webos.app.home/qml ; rm -rf /tmp/weboshome-mer
 - The overlay is applied in `/tmp` and is lost on reboot — that's intentional and makes this approach safe to experiment with.
 
 ## Credits
-This article is adapted from https://github.com/mareklarek/webos10-homescreen-customization/tree/main
+....
